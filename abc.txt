@@ -1,3 +1,7 @@
-hi,
+// Your First Program
 
-this is praveen. Welcome to git
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
